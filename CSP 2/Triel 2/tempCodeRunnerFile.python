@@ -1,0 +1,4 @@
+string = input()
+
+string1 = string.split("Period Attendance")
+print(string)
